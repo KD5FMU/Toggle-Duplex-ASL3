@@ -4,7 +4,7 @@
 CONF_FILE="/etc/asterisk/rpt.conf"
 
 # Node number to change
-NODE="58176"
+NODE="YOUR_NODE_NUMBER_HERE"
 
 # Check if the rpt.conf file exists
 if [[ ! -f "$CONF_FILE" ]]; then
