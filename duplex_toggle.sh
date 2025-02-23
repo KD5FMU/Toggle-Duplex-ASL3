@@ -1,5 +1,10 @@
 #!/bin/sh
 
+# Created by:
+# Jory A. Pratt - W5GLE
+# Freddie "Freddie Mac" McGuire - KD5FMU (but only by my thoughts)
+
+
 # Path to the rpt.conf file
 CONF_FILE="/etc/asterisk/rpt.conf"
 
