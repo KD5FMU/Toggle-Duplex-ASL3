@@ -8,7 +8,7 @@ cd /etc/asterisk/local
 
 Then we can download the script file
 ```
-https://raw.githubusercontent.com/KD5FMU/Toggle-Duplex-ASL3/refs/heads/main/duplex_toggle.sh
+wget https://raw.githubusercontent.com/KD5FMU/Toggle-Duplex-ASL3/refs/heads/main/duplex_toggle.sh
 ```
 Then we need to make the script file executable.
 ```
